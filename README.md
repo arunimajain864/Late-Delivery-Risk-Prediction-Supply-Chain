@@ -49,7 +49,6 @@ The XGBoost model demonstrated superior performance in predicting shipment delay
 
 Arunima Jain
 
-PG-DBDA, CDAC Bengaluru
 
 ## Research Paper
 
