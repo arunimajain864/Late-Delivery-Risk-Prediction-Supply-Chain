@@ -59,4 +59,3 @@ Included in the reports folder.
 * Real-time shipment monitoring
 * IoT integration
 * Weather-based delay prediction
-* Cloud deployment
